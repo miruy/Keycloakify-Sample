@@ -1,0 +1,11 @@
+{
+  "themes": [
+    {
+      "name": "keycloakifysample",
+      "types": [
+        "login",
+        "email"
+      ]
+    }
+  ]
+}
